@@ -1,13 +1,13 @@
 README.md
 
-# 🎮 PROJETO MARIO
+#  PROJETO MARIO
 
 Este é um mini site inspirado no universo do Super Mario Bros, desenvolvido com HTML, CSS e JavaScript. 
 O projeto simula um site para apresentação do trailler do filme "Super Mario Bros" com uma animação simples e interações visuais.
 
 ---
 
-## 🧱 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -15,7 +15,7 @@ O projeto simula um site para apresentação do trailler do filme "Super Mario B
 
 ---
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 
 
 PROJETO-MARIO/
@@ -32,11 +32,11 @@ PROJETO-MARIO/
 
 ---
 
-## 🚀 Como Visualizar
+## Como Visualizar
 
 Você pode visualizar este projeto de duas formas diferentes:
 
-### 🔗 1. Acessar via GitHub Pages (recomendado)
+###  1. Acessar via GitHub Pages (recomendado)
 
 Se o GitHub Pages estiver ativado:
 
@@ -46,22 +46,22 @@ Se o GitHub Pages estiver ativado:
 
 ---
 
-### 🖥️ 2. Clonar o repositório e abrir localmente
+###  2. Clonar o repositório e abrir localmente
 
 ```bash
 git clone https://github.com/raphaeldosreis/PROJETO-MARIO.git
 cd PROJETO-MARIO
 
 
-✨ Funcionalidades
+ Funcionalidades
 Animação do Mario correndo
 
 Elementos gráficos do jogo
 
 Layout simples e responsivo
 
-📌 Status do Projeto
-🚧 Em construção
+ Status do Projeto
+ Em construção
 
-👨‍💻 Autor
+ Autor
 Raphael dos Reis
