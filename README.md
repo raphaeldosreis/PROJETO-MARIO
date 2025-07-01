@@ -19,15 +19,15 @@ O projeto simula um site para apresentação do trailler do filme "Super Mario B
 
 
 PROJETO-MARIO/
-│
-├── css/
-│ └── style.css
+
+── css/
+ └── style.css
 ├── imagens/
-│ ├── mario.gif
-│ ├── nuvem.png
-│ └── pipe.png
+ ├── mario.gif
+ ├── nuvem.png
+ └── pipe.png
 ├── js/
-│ └── script.js
+ └── script.js
 └── index.html
 
 ---
