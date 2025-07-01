@@ -56,9 +56,9 @@ cd PROJETO-MARIO
 ---
 
  Funcionalidades
-Animação do Mario correndo
+Animação Mario
 
-Elementos gráficos do jogo
+Elementos gráficos do Filme
 
 Layout simples e responsivo
 
