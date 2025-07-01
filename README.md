@@ -53,6 +53,8 @@ git clone https://github.com/raphaeldosreis/PROJETO-MARIO.git
 cd PROJETO-MARIO
 
 
+---
+
  Funcionalidades
 Animação do Mario correndo
 
@@ -60,8 +62,8 @@ Elementos gráficos do jogo
 
 Layout simples e responsivo
 
- Status do Projeto
- Em construção
+---
+
 
  Autor
 Raphael dos Reis
