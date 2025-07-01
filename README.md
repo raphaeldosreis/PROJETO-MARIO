@@ -48,9 +48,8 @@ Se o GitHub Pages estiver ativado:
 
 ###  2. Clonar o repositório e abrir localmente
 
-```bash
-git clone https://github.com/raphaeldosreis/PROJETO-MARIO.git
-cd PROJETO-MARIO
+```bash git clone https://github.com/raphaeldosreis/PROJETO-MARIO.git
+cd PROJETO-MARIO 
 
 
 ---
